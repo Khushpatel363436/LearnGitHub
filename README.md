@@ -1,5 +1,5 @@
 # OpinionTrack
-
+  
 A full-stack local Social Media Public Opinion Tracking web application.
 
 OpinionTrack runs fully on localhost with free local data sources:
